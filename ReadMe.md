@@ -28,7 +28,7 @@ keyboard：用于跨平台按键检测（暂停/恢复功能）。
 安装
 
 克隆仓库：
-git clone https://github.com/yourusername/pixiv-image-downloader.git
+git clone https://github.com/sjqalghh/Pixiv-r.git
 cd pixiv-image-downloader
 
 
