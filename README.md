@@ -1,0 +1,2 @@
+# Pixiv-
+本项目通过使用Drissionpagepage跟requests库实现自动化从Pixiv下载用户指定角色的高清图片由于本人水也不高无法支持特定作者搜索下载
